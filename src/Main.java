@@ -9,5 +9,11 @@ public class Main {
 
     public static void print2() {
         System.out.println("message2");
+        print3();
     }
+
+    public static void print3() {
+        System.out.println("message3");
+    }
+
 }
